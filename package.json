@@ -1,0 +1,23 @@
+{
+  "name": "cloudrun",
+  "version": "1.0.0",
+  "description": "Simple node.js app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casey-robertson/cloudrun.git"
+  },
+  "author": "Casey Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casey-robertson/cloudrun/issues"
+  },
+  "homepage": "https://github.com/casey-robertson/cloudrun#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
